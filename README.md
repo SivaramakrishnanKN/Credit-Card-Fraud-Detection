@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Assignment 3
 
 This assignment aims to understand the DBSCAN and LOF Algorithms for the Data Mining (CS F415) course.
 
